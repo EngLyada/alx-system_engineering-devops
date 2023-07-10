@@ -1,1 +1,1 @@
-shell basic read me
+i am working now
